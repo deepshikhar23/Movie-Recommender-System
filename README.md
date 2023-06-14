@@ -2,6 +2,18 @@
 (http://43.205.195.84:8501/)
 
 This is a movie recommender system that suggests similar movies based on user input. The system utilizes a Flask web application to provide recommendations and display movie posters.
+
+# Screenshots
+![ss_1](https://github.com/deepshikhar23/Movie-Recommender-System/assets/116090674/36a507c5-3417-45c9-b062-307410d80bbb)
+![ss_2](https://github.com/deepshikhar23/Movie-Recommender-System/assets/116090674/7bf8b6de-8ba5-48ea-a877-09ad2ca323a7)
+![ss_3](https://github.com/deepshikhar23/Movie-Recommender-System/assets/116090674/ecda48e8-2812-4dfd-af0d-b3e23818df81)
+![ss_4](https://github.com/deepshikhar23/Movie-Recommender-System/assets/116090674/f97b8642-c078-43ad-b7b4-b16e3f7aed53)
+![ss_5](https://github.com/deepshikhar23/Movie-Recommender-System/assets/116090674/59707993-040b-4cec-87f8-aefd7089c717)
+![ss_6](https://github.com/deepshikhar23/Movie-Recommender-System/assets/116090674/a82bd5d5-6f0c-4615-b661-187cc5c28834)
+
+
+
+
 ## Installation
 To run the Movie Recommender System locally, follow these steps:
 
