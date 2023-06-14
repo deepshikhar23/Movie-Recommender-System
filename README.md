@@ -5,7 +5,7 @@ This is a movie recommender system that suggests similar movies based on user in
 ## Installation
 To run the Movie Recommender System locally, follow these steps:
 
-1. Clone the repository: git clone <repository_url>
+1. Clone the repository: git clone https://github.com/deepshikhar23/Movie-Recommender-System
 
 2. Install the required dependencies. Run the following command in your terminal or command prompt: pip install flask requests
 
